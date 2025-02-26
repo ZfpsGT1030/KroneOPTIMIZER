@@ -2,6 +2,10 @@
 
 MADE BY SPINNING3 ON DISCORD
 
+does your computer not handle ur favourite games anymore? do you feel like you wanna save up for a new computer which costs over 1k$?
+Dont spend all that, just use krone optimizer and triple your fps. 
+
+
 KEY FEATURES 🎹
 
 system Performance Tuning🚀: Automatically adjusts your PC’s CPU, RAM, and GPU settings for maximum performance, eliminating lag and stutter in games.

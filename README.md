@@ -1,4 +1,6 @@
-System Performance Tuning🚀: Automatically adjusts your PC’s CPU, RAM, and GPU settings for maximum performance, eliminating lag and stutter in games.
+Sy![821dba047b8e9f8416268e0a33fc8745](https://github.com/user-attachments/assets/948c84cd-5e1b-4c50-9590-2f9b32d205aa)
+
+stem Performance Tuning🚀: Automatically adjusts your PC’s CPU, RAM, and GPU settings for maximum performance, eliminating lag and stutter in games.
 
 Game Mode Activation🚀: Prioritizes system resources to focus on your gaming experience, disabling unnecessary background processes and apps.
 Driver Optimization: Ensures your graphics and hardware drivers are up to date and optimized for peak performance, helping games run smoothly.

@@ -1,6 +1,6 @@
 ![821dba047b8e9f8416268e0a33fc8745](https://github.com/user-attachments/assets/948c84cd-5e1b-4c50-9590-2f9b32d205aa)  -- credits for @rio for designing the logo 
 
-MADE BY SPINNING3 ON DISCORD
+--- gt 1030 user 
 
 does your computer not handle ur favourite games anymore? do you feel like you wanna save up for a new computer which costs over 1k$?
 Dont spend all that, just use krone optimizer and triple your fps. 

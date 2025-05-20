@@ -50,6 +50,7 @@ Game FPS Cap 🎯: Optionally cap FPS to prevent overheating or reduce GPU stres
 Advanced RAM Allocation 🧠: Ensures that the system allocates RAM dynamically for the most demanding tasks, giving games priority.
 
 Auto Update for Optimizations 🔄: Keeps your Krone Optimizer settings up to date by automatically installing performance updates and tweaks.
+exclaimer this does not hook into a game in any way too prevent anti cheat-triggers
 
 Advanced Background Resource Allocation ⚙️: Fine-tunes how resources are allocated, ensuring that your PC's power goes where it matters most during gaming.
 
